@@ -33,7 +33,7 @@ Passcode: 123
 
 * And Paste it into the box and click SET.
 
-![alt text](Screenshots/how-to-use_00000_00000.png)
+![alt text](use.png)
 
 * Here you go phone will play the default Alarm tune on the given time.
 
