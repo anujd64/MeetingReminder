@@ -36,6 +36,8 @@ Passcode: 123
 ![alt text](use.png)
 
 * Here you go phone will play the default Alarm tune on the given time.
+* You can turn off the ringing alarm by launching the app and simply quitting it.(Haven't added off switch)
+* Also the reminder rings only for duration of ringtone.
 
 Note: Currently the app can handle only one reminder at a time.
 ---
