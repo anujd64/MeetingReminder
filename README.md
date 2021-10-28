@@ -52,3 +52,7 @@ Libraries Used📖
 https://github.com/Rajagopalr3/CustomEditText
 [1]:
 https://github.com/material-components
+
+
+
+[![Visits Badge](https://badges.pufler.dev/visits/anujd64/git-badges)](https://badges.pufler.dev)
