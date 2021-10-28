@@ -55,4 +55,4 @@ https://github.com/material-components
 
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/anujd64/git-badges)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/anujd64/MeetingReminder)](https://badges.pufler.dev)
